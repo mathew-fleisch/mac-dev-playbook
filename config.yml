@@ -152,10 +152,10 @@ homebrew_cask_apps:
   - docker
   - dropbox
   - firefox
+  - iterm2
   - licecap
   - sequel-pro
   - sublime-text
-  - transmit
   - vagrant
 
 # See `geerlingguy.mas` role documentation for usage instructions.
